@@ -25,7 +25,7 @@ class M73ETA(octoprint.plugin.OctoPrintPlugin,octoprint.plugin.RestartNeedingPlu
             user="sysadminsh",
             repo="OctoPrint-M73ETAOverride",
 
-            pip="https://github.com/sysadminsh/OctoPrint-M73ETAOverride/archive/{target}.zip"
+            pip="https://github.com/adelyser/OctoPrint-M73ETAOverride/archive/{target}.zip"
         )
     )
 
